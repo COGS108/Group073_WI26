@@ -1,0 +1,2 @@
+# Raw ZHVI file exceeds GitHub 100MB limit; download from Zillow and place in data/00-raw/
+data/00-raw/Zip_Zhvi_SingleFamilyResidence.csv
